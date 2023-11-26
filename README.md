@@ -1,6 +1,9 @@
 <a id="readme-top"></a>
 
-[![image](https://www.linkpicture.com/q/BINNOTECH1234.png)](https://www.linkpicture.com/view.php?img=LPic64e37317935f11878555798)
+# WELCOME TO BINNOTECH ORGANIZATION FULL CURRICULUM OVERVIEW
+
+
+![1](https://github.com/BINNOTECH-ORGANIZATION/BINNOTECH-FULL-CURICULLUM-OVERVIEW/assets/83514256/82676cf3-8650-4c1b-b043-7481e02743ad)
 
 # 📗 Table of Contents
 
